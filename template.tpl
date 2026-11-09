@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Clarip Consent Management",
+  "displayName": "Clarip CMP",
   "categories": [
     "UTILITY",
     "TAG_MANAGEMENT"
@@ -758,6 +758,6 @@ scenarios: []
 
 ___NOTES___
 
-Clarip Consent Management template for Google Tag Manager.
+Clarip CMP template for Google Tag Manager.
 
 
