@@ -2,6 +2,6 @@ homepage: "https://www.clarip.com"
 documentation: "https://github.com/claripinc/gtm-consent-template#readme"
 versions:
   # Latest version
-  - sha: 9e2562e8b02fdddf8a163e85cc417a5fd54dce82
+  - sha: 37d1482953440f9e3760e4955083aac5f86e8f62
     changeNotes: |2
       Initial release.
