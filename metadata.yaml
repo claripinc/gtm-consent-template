@@ -1,0 +1,7 @@
+homepage: "https://www.clarip.com"
+documentation: "https://github.com/claripinc/gtm-consent-template#readme"
+versions:
+  # Latest version
+  - sha: REPLACE_WITH_TEMPLATE_COMMIT_SHA
+    changeNotes: |2
+      Initial release.
